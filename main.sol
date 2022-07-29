@@ -3,27 +3,19 @@ pragma solidity ^0.8.7;
 
 import "erc721a/contracts/ERC721A.sol";
 
-contract TheGreatSeafaringEra is ERC721A {
+contract ZhouJie is ERC721A {
     address PROXYADDRESS;
     address OWNER;
 
     string BASEURI;
-    string CONTRACTURI;
 
-    constructor(string memory baseURI, string memory contractMetadata)
-        ERC721A("Zhou Jie", "ZJ")
-    {
+    constructor(string memory baseURI) ERC721A("Zhou Jie", "ZJ") {
         OWNER = msg.sender;
         BASEURI = baseURI;
-        CONTRACTURI = contractMetadata;
     }
 
     function mint(uint amount) external onlyOwner {
         _mint(owner(), amount);
-    }
-
-    function contractURI() public view returns (string memory) {
-        return CONTRACTURI;
     }
 
     function tokenURI(uint256 tokenId)
@@ -58,10 +50,6 @@ contract TheGreatSeafaringEra is ERC721A {
 
     function _baseURI() internal view virtual override returns (string memory) {
         return BASEURI;
-    }
-
-    function setContractURI(string memory contractMetadata) external onlyOwner {
-        CONTRACTURI = contractMetadata;
     }
 
     function owner() public view virtual returns (address) {
@@ -101,3 +89,5 @@ contract TheGreatSeafaringEra is ERC721A {
         _;
     }
 }
+
+// 0x2556f31C1b66407bFcD1012D841a02677627775F
