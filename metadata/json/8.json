@@ -1,12 +1,12 @@
 {
   "tokenId": "8",
-  "name": "买衣服  #8",
+  "name": "买新衣服  #8",
   "description": "声援周劼！声援诚实！",
   "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/8.jpg",
   "attributes": [
     {
       "trait_type": "主题",
-      "value": "买衣服"
+      "value": "买新衣服"
     },
     {
       "trait_type": "谁买",

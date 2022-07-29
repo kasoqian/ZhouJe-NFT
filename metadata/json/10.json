@@ -9,23 +9,20 @@
       "value": "和阙泳聊天"
     },
     {
-      "trait_type": "title1",
+      "trait_type": "身份1",
       "value": "副总"
     },
     {
-      "trait_type": "title2",
+      "trait_type": "身份2",
       "value": "总会计师"
     },
     {
       "trait_type": "下飞机后",
-      "value": "清华演讲"
+      "value": "参加清华讲座"
     },
     {
-      "trait_type": "我",
+      "trait_type": "自我评价",
       "value": "读书差"
-    },
-    {
-      "trait_type": ""
     }
   ]
 }

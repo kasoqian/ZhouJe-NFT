@@ -1,12 +1,12 @@
 {
   "tokenId": "15",
-  "name": "组件新单位  #15",
+  "name": "组建新单位  #15",
   "description": "声援周劼！声援诚实！",
   "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/15.jpg",
   "attributes": [
     {
       "trait_type": "主题",
-      "value": "组件新单位"
+      "value": "组建新单位"
     },
     {
       "trait_type": "单位名",
@@ -26,7 +26,7 @@
     },
     {
       "trait_type": "入职要求",
-      "value": "副厅长起步"
+      "value": "副厅长关系"
     }
   ]
 }
