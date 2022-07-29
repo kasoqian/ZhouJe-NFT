@@ -1,0 +1,28 @@
+{
+  "tokenId": "2",
+  "name": "这个沙雕  #2",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/2.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "小镇做题家"
+    },
+    {
+      "trait_type": "性格1",
+      "value": "有仇必报"
+    },
+    {
+      "trait_type": "性格2",
+      "value": "有恩必还"
+    },
+    {
+      "trait_type": "沙雕想进的单位",
+      "value": "省交通设计院"
+    },
+    {
+      "trait_type": "结论",
+      "value": "社会教教他"
+    }
+  ]
+}

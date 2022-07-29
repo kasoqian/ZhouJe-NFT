@@ -1,0 +1,36 @@
+{
+  "tokenId": "5",
+  "name": "那个他  #5",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/5.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "那个他"
+    },
+    {
+      "trait_type": "干什么",
+      "value": "开会"
+    },
+    {
+      "trait_type": "他最了解1",
+      "value": "专业"
+    },
+    {
+      "trait_type": "他最了解2",
+      "value": "房子"
+    },
+    {
+      "trait_type": "他最了解2",
+      "value": "汽车"
+    },
+    {
+      "trait_type": "宝马X3",
+      "value": "便宜"
+    },
+    {
+      "trait_type": "画饼",
+      "value": "卡宴一辆"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "tokenId": "1",
+  "name": "毛坯房交房  #1",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/1.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "新交付房屋"
+    },
+    {
+      "trait_type": "购买日期",
+      "value": "2016年9月"
+    },
+    {
+      "trait_type": "交房日期",
+      "value": "2019年"
+    },
+    {
+      "trait_type": "房屋类型",
+      "value": "毛坯"
+    },
+    {
+      "trait_type": "入住",
+      "value": "未入住"
+    }
+  ]
+}

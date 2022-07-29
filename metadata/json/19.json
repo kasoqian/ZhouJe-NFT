@@ -1,5 +1,28 @@
 {
-  "name": "周 #19",
-  "image": "https://raw.githubusercontent.com/W3T-Web3-Genius-Tools/sbt/main/src/metadata/images/19.jpg",
-  "description": "周劼的精彩人生"
+  "tokenId": "19",
+  "name": "恭喜父亲  #19",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/19.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "恭喜父亲"
+    },
+    {
+      "trait_type": "何事",
+      "value": "已内定"
+    },
+    {
+      "trait_type": "感谢亲戚1",
+      "value": "三伯"
+    },
+    {
+      "trait_type": "感谢亲戚2",
+      "value": "大伯"
+    },
+    {
+      "trait_type": "原因",
+      "value": "祖上积德"
+    }
+  ]
 }

@@ -1,5 +1,24 @@
 {
-  "name": "周 #12",
-  "image": "https://raw.githubusercontent.com/W3T-Web3-Genius-Tools/sbt/main/src/metadata/images/12.jpg",
-  "description": "周劼的精彩人生"
+  "tokenId": "12",
+  "name": "白毫银针  #12",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/12.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "白毫银针"
+    },
+    {
+      "trait_type": "价格",
+      "value": "200k/500g"
+    },
+    {
+      "trait_type": "场景",
+      "value": "谈人生"
+    },
+    {
+      "trait_type": "特性",
+      "value": "不抽烟"
+    }
+  ]
 }

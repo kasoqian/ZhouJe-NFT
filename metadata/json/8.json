@@ -1,0 +1,40 @@
+{
+  "tokenId": "8",
+  "name": "买衣服  #8",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/8.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "买衣服"
+    },
+    {
+      "trait_type": "谁买",
+      "value": "普通百姓"
+    },
+    {
+      "trait_type": "外套",
+      "value": "2690元"
+    },
+    {
+      "trait_type": "短袖",
+      "value": "798元"
+    },
+    {
+      "trait_type": "法拉利",
+      "value": "买不起"
+    },
+    {
+      "trait_type": "短裤",
+      "value": "1290元"
+    },
+    {
+      "trait_type": "高大上品牌",
+      "value": "不认识"
+    },
+    {
+      "trait_type": "老吴说",
+      "value": "你给我装"
+    }
+  ]
+}

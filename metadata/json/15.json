@@ -1,5 +1,32 @@
 {
-  "name": "周 #15",
-  "image": "https://raw.githubusercontent.com/W3T-Web3-Genius-Tools/sbt/main/src/metadata/images/15.jpg",
-  "description": "周劼的精彩人生"
+  "tokenId": "15",
+  "name": "组件新单位  #15",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/15.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "组件新单位"
+    },
+    {
+      "trait_type": "单位名",
+      "value": "江西高速集团有限公司"
+    },
+    {
+      "trait_type": "全省排名",
+      "value": "第一"
+    },
+    {
+      "trait_type": "特征",
+      "value": "非金融"
+    },
+    {
+      "trait_type": "实际",
+      "value": "银行"
+    },
+    {
+      "trait_type": "入职要求",
+      "value": "副厅长起步"
+    }
+  ]
 }

@@ -1,5 +1,24 @@
 {
-  "name": "周 #13",
-  "image": "https://raw.githubusercontent.com/W3T-Web3-Genius-Tools/sbt/main/src/metadata/images/13.jpg",
-  "description": "周劼的精彩人生"
+  "tokenId": "13",
+  "name": "刷朋友圈  #13",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/13.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "刷朋友圈"
+    },
+    {
+      "trait_type": "干什么",
+      "value": "删人"
+    },
+    {
+      "trait_type": "为什么删",
+      "value": "给年轻人留位置"
+    },
+    {
+      "trait_type": "避免",
+      "value": "无效社交"
+    }
+  ]
 }

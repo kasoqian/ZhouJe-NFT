@@ -1,5 +1,28 @@
 {
-  "name": "周 #14",
-  "image": "https://raw.githubusercontent.com/W3T-Web3-Genius-Tools/sbt/main/src/metadata/images/14.jpg",
-  "description": "周劼的精彩人生"
+  "tokenId": "14",
+  "name": "买新车  #14",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/14.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "买新车"
+    },
+    {
+      "trait_type": "谁带我去",
+      "value": "专车司机"
+    },
+    {
+      "trait_type": "交通系统",
+      "value": "特别有钱"
+    },
+    {
+      "trait_type": "集资房",
+      "value": "6次"
+    },
+    {
+      "trait_type": "我说",
+      "value": "牛！这你都知道"
+    }
+  ]
 }

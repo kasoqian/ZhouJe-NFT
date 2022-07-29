@@ -23,6 +23,12 @@ const metaBase = {
 
 let arr = new Array(10).fill({ name: "周" });
 
+async function readfile() {
+  let result;
+
+  return result;
+}
+
 function main() {
   arr.forEach(async (item, index) => {
     let metadataOnce = {};
@@ -42,4 +48,48 @@ function main() {
   });
 }
 
-main();
+const meatadatas = () => {
+  return new Promise(async (res, rej) => {
+    let data = await fs.readFileSync(
+      path.join(__dirname, "./metadata.txt"),
+      (e, d) => {},
+    );
+
+    data = data.toString();
+
+    const result = data
+      .split("\n")
+      .map(v => v.split("\t"))
+      .reduce((result, cur) => {
+        let tmparr = {};
+        tmparr["tokenId"] = cur[0];
+        tmparr.name = `${cur[1]}  #${cur[0]}`;
+        tmparr.description = "声援周劼！声援诚实！";
+        tmparr.image = `https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/${cur[0]}.jpg`;
+        tmparr.attributes = cur[2].split("；").map(v => {
+          const tmp = {};
+
+          tmp["trait_type"] = v.split("：")[0];
+          tmp["value"] = v.split("：")[1];
+          return tmp;
+        });
+
+        result.push(tmparr);
+        return result;
+      }, []);
+
+    res(result);
+  });
+};
+
+(async () => {
+  const data = await meatadatas();
+  console.log(data);
+
+  data.map(item => {
+    fs.writeFileSync(
+      path.join(__dirname, `./metadata/json/${item.tokenId}.json`),
+      JSON.stringify(item, null, 2),
+    );
+  });
+})();

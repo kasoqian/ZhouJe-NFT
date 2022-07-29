@@ -1,0 +1,16 @@
+{
+  "tokenId": "21",
+  "name": "学习  #21",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/21.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "学习"
+    },
+    {
+      "trait_type": "地点",
+      "value": "江西省人民政府"
+    }
+  ]
+}

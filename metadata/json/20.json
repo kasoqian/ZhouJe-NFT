@@ -1,0 +1,24 @@
+{
+  "tokenId": "20",
+  "name": "秀别墅  #20",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/20.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "秀别墅"
+    },
+    {
+      "trait_type": "原价",
+      "value": "500万"
+    },
+    {
+      "trait_type": "现价",
+      "value": "1000万"
+    },
+    {
+      "trait_type": "位置",
+      "value": "南昌绿地卢塞恩小镇"
+    }
+  ]
+}

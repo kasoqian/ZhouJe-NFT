@@ -1,5 +1,28 @@
 {
-  "name": "周 #16",
-  "image": "https://raw.githubusercontent.com/W3T-Web3-Genius-Tools/sbt/main/src/metadata/images/16.jpg",
-  "description": "周劼的精彩人生"
+  "tokenId": "16",
+  "name": "选楼盘  #16",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/16.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "选楼盘"
+    },
+    {
+      "trait_type": "顺带",
+      "value": "看了2个店铺"
+    },
+    {
+      "trait_type": "梦想",
+      "value": "买写字楼"
+    },
+    {
+      "trait_type": "老姐说",
+      "value": "要孝顺"
+    },
+    {
+      "trait_type": "九龙湖",
+      "value": "省政府集中地"
+    }
+  ]
 }

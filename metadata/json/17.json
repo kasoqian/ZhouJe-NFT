@@ -1,5 +1,24 @@
 {
-  "name": "周 #17",
-  "image": "https://raw.githubusercontent.com/W3T-Web3-Genius-Tools/sbt/main/src/metadata/images/17.jpg",
-  "description": "周劼的精彩人生"
+  "tokenId": "17",
+  "name": "设计院介绍  #17",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/17.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "设计院介绍"
+    },
+    {
+      "trait_type": "隶属",
+      "value": "江西省交通厅"
+    },
+    {
+      "trait_type": "主营业务",
+      "value": "高速公路"
+    },
+    {
+      "trait_type": "同事",
+      "value": "博士专业"
+    }
+  ]
 }

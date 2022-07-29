@@ -1,5 +1,31 @@
 {
-  "name": "周 #10",
-  "image": "https://raw.githubusercontent.com/W3T-Web3-Genius-Tools/sbt/main/src/metadata/images/10.jpg",
-  "description": "周劼的精彩人生"
+  "tokenId": "10",
+  "name": "和阙泳聊天  #10",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/10.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "和阙泳聊天"
+    },
+    {
+      "trait_type": "title1",
+      "value": "副总"
+    },
+    {
+      "trait_type": "title2",
+      "value": "总会计师"
+    },
+    {
+      "trait_type": "下飞机后",
+      "value": "清华演讲"
+    },
+    {
+      "trait_type": "我",
+      "value": "读书差"
+    },
+    {
+      "trait_type": ""
+    }
+  ]
 }

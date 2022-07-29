@@ -1,0 +1,31 @@
+{
+  "tokenId": "7",
+  "name": "百龙学长  #7",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/7.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "百龙学长"
+    },
+    {
+      "trait_type": "等级",
+      "value": "正科级"
+    },
+    {
+      "trait_type": "年份",
+      "value": "85年"
+    },
+    {
+      "trait_type": "啥来头",
+      "value": "地铁办公室主任"
+    },
+    {
+      "trait_type": "人情",
+      "value": "介绍表弟认识"
+    },
+    {
+      "trait_type": " "
+    }
+  ]
+}

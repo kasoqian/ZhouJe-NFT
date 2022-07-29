@@ -1,5 +1,28 @@
 {
-  "name": "周 #18",
-  "image": "https://raw.githubusercontent.com/W3T-Web3-Genius-Tools/sbt/main/src/metadata/images/18.jpg",
-  "description": "周劼的精彩人生"
+  "tokenId": "18",
+  "name": "看楼盘  #18",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/18.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "看楼盘"
+    },
+    {
+      "trait_type": "开发商",
+      "value": "绿地"
+    },
+    {
+      "trait_type": "小区名称",
+      "value": "海珀九龙"
+    },
+    {
+      "trait_type": "老姐身价",
+      "value": "过亿"
+    },
+    {
+      "trait_type": "投资汇报",
+      "value": "翻翻"
+    }
+  ]
 }

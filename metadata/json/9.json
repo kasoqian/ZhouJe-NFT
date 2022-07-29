@@ -1,0 +1,24 @@
+{
+  "tokenId": "9",
+  "name": "小聚  #9",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/9.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "小聚"
+    },
+    {
+      "trait_type": "配角1",
+      "value": "省委书记的孙子"
+    },
+    {
+      "trait_type": "集团",
+      "value": "江苏省高速集团"
+    },
+    {
+      "trait_type": "饭后",
+      "value": "感谢孙子"
+    }
+  ]
+}

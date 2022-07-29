@@ -1,0 +1,28 @@
+{
+  "tokenId": "6",
+  "name": "副省长  #6",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/6.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "胡强副省长"
+    },
+    {
+      "trait_type": "title2",
+      "value": "财政厅厅长"
+    },
+    {
+      "trait_type": "架子",
+      "value": "没有"
+    },
+    {
+      "trait_type": "示好",
+      "value": "给我递烟"
+    },
+    {
+      "trait_type": "我",
+      "value": "想都没想，抽了"
+    }
+  ]
+}

@@ -1,5 +1,32 @@
 {
-  "name": "周 #11",
-  "image": "https://raw.githubusercontent.com/W3T-Web3-Genius-Tools/sbt/main/src/metadata/images/11.jpg",
-  "description": "周劼的精彩人生"
+  "tokenId": "11",
+  "name": "才发现  #11",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/11.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "才发现"
+    },
+    {
+      "trait_type": "主角",
+      "value": "财务处长"
+    },
+    {
+      "trait_type": "身份",
+      "value": "正厅级"
+    },
+    {
+      "trait_type": "关系",
+      "value": "未来的直属领导"
+    },
+    {
+      "trait_type": "疑思",
+      "value": "情商有用吗？"
+    },
+    {
+      "trait_type": "结论",
+      "value": "百里无一害"
+    }
+  ]
 }
