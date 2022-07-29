@@ -1,0 +1,16 @@
+{
+  "tokenId": "27",
+  "name": "让我做省长秘书  #27",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/27.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "让我做省长秘书"
+    },
+    {
+      "trait_type": "疑惑",
+      "value": "这让我咋做"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "tokenId": "22",
+  "name": "谢谢朋友  #22",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/22.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "谢谢朋友"
+    },
+    {
+      "trait_type": "感谢内容",
+      "value": "预留手机号"
+    },
+    {
+      "trait_type": "手机号",
+      "value": "001"
+    },
+    {
+      "trait_type": "是否花钱",
+      "value": "免费"
+    },
+    {
+      "trait_type": "我",
+      "value": "穷"
+    },
+    {
+      "trait_type": "花钱办事",
+      "value": "没意思"
+    }
+  ]
+}

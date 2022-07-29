@@ -1,0 +1,32 @@
+{
+  "tokenId": "28",
+  "name": "谢谢省长  #28",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/28.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "谢谢省长"
+    },
+    {
+      "trait_type": "场景",
+      "value": "酒局"
+    },
+    {
+      "trait_type": "茅台",
+      "value": "4瓶"
+    },
+    {
+      "trait_type": "红酒",
+      "value": "两瓶"
+    },
+    {
+      "trait_type": "交给我的工作",
+      "value": "不遗余力"
+    },
+    {
+      "trait_type": "评价江西",
+      "value": "风景独好"
+    }
+  ]
+}

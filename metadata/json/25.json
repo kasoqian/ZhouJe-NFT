@@ -1,0 +1,32 @@
+{
+  "tokenId": "25",
+  "name": "我爱上班  #25",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/25.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "我爱上班"
+    },
+    {
+      "trait_type": "工作地",
+      "value": "必须体制内！"
+    },
+    {
+      "trait_type": "青春",
+      "value": "没有浪费"
+    },
+    {
+      "trait_type": "喜欢1",
+      "value": "读书"
+    },
+    {
+      "trait_type": "喜欢2",
+      "value": "独处时光"
+    },
+    {
+      "trait_type": "最痛苦的事",
+      "value": "怎么又到了周末？"
+    }
+  ]
+}

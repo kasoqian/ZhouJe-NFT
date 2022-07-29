@@ -1,0 +1,20 @@
+{
+  "tokenId": "26",
+  "name": "好酒！  #26",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/26.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "好酒！"
+    },
+    {
+      "trait_type": "论据",
+      "value": "喝了半斤没事儿"
+    },
+    {
+      "trait_type": "陪同",
+      "value": "袁的侄子"
+    }
+  ]
+}

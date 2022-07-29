@@ -1,0 +1,28 @@
+{
+  "tokenId": "23",
+  "name": "王侯将相有种乎  #23",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/23.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "王侯将相有种乎"
+    },
+    {
+      "trait_type": "结论",
+      "value": "有种"
+    },
+    {
+      "trait_type": "最大的公平",
+      "value": "不公平"
+    },
+    {
+      "trait_type": "传承制",
+      "value": "是"
+    },
+    {
+      "trait_type": "人生感悟",
+      "value": "尽人事，听天命"
+    }
+  ]
+}

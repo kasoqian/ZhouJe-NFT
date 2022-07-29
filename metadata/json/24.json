@@ -1,0 +1,20 @@
+{
+  "tokenId": "24",
+  "name": "省政府的伙食  #24",
+  "description": "声援周劼！声援诚实！",
+  "image": "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/24.jpg",
+  "attributes": [
+    {
+      "trait_type": "主题",
+      "value": "省政府的伙食"
+    },
+    {
+      "trait_type": "午餐",
+      "value": "20个菜"
+    },
+    {
+      "trait_type": "是否浪费",
+      "value": "没有"
+    }
+  ]
+}
