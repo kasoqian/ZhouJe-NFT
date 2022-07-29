@@ -11,7 +11,7 @@ contract TheGreatSeafaringEra is ERC721A {
     string CONTRACTURI;
 
     constructor(string memory baseURI, string memory contractMetadata)
-        ERC721A("zhou jie", "ZJ")
+        ERC721A("Zhou Jie", "ZJ")
     {
         OWNER = msg.sender;
         BASEURI = baseURI;
