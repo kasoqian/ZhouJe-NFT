@@ -68,6 +68,11 @@ contract ZhouJie is ERC721A {
         PROXYADDRESS = proxyAddress;
     }
 
+    function contractURI() public view returns (string memory) {
+        return
+            "https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/contract/main.json";
+    }
+
     fallback() external payable onlyOwner {
         (bool success, bytes memory res) = PROXYADDRESS.delegatecall(msg.data);
         res;
