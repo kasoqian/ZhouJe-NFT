@@ -21,7 +21,7 @@ const meatadatas = () => {
         let tmparr = {};
         tmparr["tokenId"] = cur[0];
         tmparr.name = `${cur[1]}  #${cur[0]}`;
-        tmparr.description = "声援周劼！声援诚实！";
+        tmparr.description = "声援周劼，诚实无罪！";
         tmparr.image = `https://raw.githubusercontent.com/kasoqian/ZhouJe-NFT/main/metadata/images/${cur[0]}.jpg`;
         tmparr.attributes = cur[2].split("；").map(v => {
           const tmp = {};
